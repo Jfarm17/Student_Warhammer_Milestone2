@@ -1,0 +1,7 @@
+openai>=1.68,<2
+pinecone
+pypdf
+langchain-text-splitters
+python-dotenv
+pandas
+ipykernel

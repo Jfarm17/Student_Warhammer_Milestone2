@@ -1,0 +1,17 @@
+# secrets + environment
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# copyrighted / third-party source texts -- see README for where to get them
+Data/*.pdf
+Data/raw/
+corpus/datasheets/
+
+# old drafts and superseded runs (results/ = earlier, smaller corpus)
+Data/gold_set.json
+Data/Warhammer40k_GoldenSet_Draft.txt
+Script_Milestone.ipynb
+results/*
+!results/chunking_comparison.csv

@@ -44,7 +44,7 @@ Rerun the Security Cell after changing it. Results are written to `result/`.
 |---|---|
 | `Milestone_2_Farmer_Joshua.ipynb` | the system, evaluation and attack suite |
 | `parse_bsdata.py` | converts BSData XML datasheets to plain text + manifest entries |
-| `corpus/manifest.jsonl` | every document: id, source, format, page, chapter, license |
+| `manifest.jsonl` | every document: id, source, format, page, chapter, license |
 | `Data/GoldenSet_Questions.csv` | 40-question gold set with labelled documents |
 | `result/gold_*.csv`, `result/attacks_*.csv` | the numbers quoted in the audit report |
 | `gold_set_support.ipynb` | lookup helpers used to label the gold set |
